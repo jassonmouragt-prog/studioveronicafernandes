@@ -1,0 +1,11 @@
+.vercel/
+.impeccable/
+public/
+node_modules/
+.env
+.env.*
+*.log
+PRODUCT.md
+DESIGN.md
+Thumbs.db
+.DS_Store
